@@ -1,0 +1,108 @@
+body {
+    background-color: #FFF6E9;
+    margin: 0;
+}
+
+.hero img {
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.hero {
+    background-color: #40A2E3;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #40A2E3;
+}
+
+h1 {
+    font-family: "Yellowtail", cursive;
+    text-align: center;
+    font-size: 5rem;
+    margin: 0;
+}
+
+
+p {
+    font-family: "Roboto Flex", sans-serif;
+    text-align: center;
+    font-size: 1.25rem;
+    color: rgb(112, 111, 111);
+    text-align: left;
+}
+.hero > p {
+    font-size: 1.5rem;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Roboto Flex", sans-serif;
+    text-align: center;
+    color:#40A2E3;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.about-me img {
+    width: 300px;
+}
+
+.my-skills img {
+    width: 300px;
+}
+
+.my-work img {
+    width: 300px;
+   
+}
+
+.my-hobbies img {
+    height: 200px;
+}
+
+footer {
+    background-color: #40A2E3;
+    color: white;
+    text-align: center;
+    font-family: "Roboto Flex", sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+div {
+    background-color: #FFF6E9;
+    margin: 0;
+}
+
+
+ul {
+    padding-left: 20px;
+    font-family: "Roboto Flex", sans-serif;
+    font-size: 1.25rem;
+    color: rgb(112, 111, 111);
+    text-align: left;
+}
+
+.btn-resume {
+    background-color: #40A2E3;
+    border: 0;
+    border-radius: 7px;
+    font-size: 1rem;
+    padding: 10px 15px;
+    color: white;
+}
+
+.btn-resume:hover {
+    background-color: #2f7fb4;
+}
